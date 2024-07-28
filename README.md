@@ -1,6 +1,9 @@
 # `🛋️` Cushion
 
 > [!NOTE]
+> Cushion is a port of Beanie, I haven't started work on it yet sadly.
+
+> [!NOTE]
 > Credit where credit is due, cushion is built on [Beanie ODM](https://github.com/BeanieODM/beanie) and uses Beanie source code.
 
 ## `📰` Overview
